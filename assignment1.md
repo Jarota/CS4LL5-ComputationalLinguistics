@@ -2,7 +2,7 @@
 James Tait - 16321184
 
 ---
-####Q1
+#### Q1
 i)
 
 $P(A \wedge B) = P(A) \times P(B)$
@@ -20,7 +20,7 @@ $P(A|B) = \frac{P(A \wedge B)}{P(B)} = P(A)$
 $P(A \wedge B) = P(A) \times P(B)$
 
 ---
-####Q2
+#### Q2
 
 |     | gw  | ¬gw |
 |:---:|:---:|:---:|
@@ -54,12 +54,12 @@ $P(ps|gw) = \frac{0.14}{0.84} = 0.01$
 The count where Gryffindor did not win (ie the right column) are not relevant to this calculation.
 
 ---
-####Q3
+#### Q3
 a)
 
 $p(vmel) = 0.01, p(dbi|vmel) = 0.95, p(dbi|¬vmel) = 0.01$
 
-###$p(vmel|dbi) = \frac{p(vmel \wedge dbi)}{p(dbi)}$
+### $p(vmel|dbi) = \frac{p(vmel \wedge dbi)}{p(dbi)}$
 
 $p(vmel \wedge dbi) = p(dbi|vmel) \times p(vmel)$
 
@@ -71,7 +71,7 @@ $p(dbi) = 0.95 + 0.01 = 0.96$
 
 $p(vmel|dbi) = \frac{0.0095}{0.96} =0.0099$
 
-###$p(¬vmel|dbi) = \frac{p(¬vmel \wedge dbi)}{p(dbi)}$
+### $p(¬vmel|dbi) = \frac{p(¬vmel \wedge dbi)}{p(dbi)}$
 
 $p(¬vmel \wedge dbi) = p(dbi|¬vmel) \times p(¬vmel)$
 
@@ -85,7 +85,7 @@ b)
 
 $p(vmel) = 0.15, p(dbi|vmel) = 0.95, p(dbi|¬vmel) = 0.01$
 
-###$p(vmel|dbi) = \frac{p(vmel \wedge dbi)}{p(dbi)}$
+### $p(vmel|dbi) = \frac{p(vmel \wedge dbi)}{p(dbi)}$
 
 $p(vmel \wedge dbi) = p(dbi|vmel) \times p(vmel)$
 
@@ -97,7 +97,7 @@ $p(dbi) = 0.95 + 0.01 = 0.96$
 
 $p(vmel|dbi) = \frac{0.1425}{0.96} =0.1484$
 
-###$p(¬vmel|dbi) = \frac{p(¬vmel \wedge dbi)}{p(dbi)}$
+### $p(¬vmel|dbi) = \frac{p(¬vmel \wedge dbi)}{p(dbi)}$
 
 $p(¬vmel \wedge dbi) = p(dbi|¬vmel) \times p(¬vmel)$
 
@@ -111,7 +111,7 @@ c)
 
 $p(vmel) = 0.01, p(dbi|vmel) = 0.95, p(dbi|¬vmel) = 0.001$
 
-###$p(vmel|dbi) = \frac{p(vmel \wedge dbi)}{p(dbi)}$
+### $p(vmel|dbi) = \frac{p(vmel \wedge dbi)}{p(dbi)}$
 
 $p(vmel \wedge dbi) = p(dbi|vmel) \times p(vmel)$
 
@@ -123,7 +123,7 @@ $p(dbi) = 0.95 + 0.001 = 0.951$
 
 $p(vmel|dbi) = \frac{0.0095}{0.951} =0.01$
 
-###$p(¬vmel|dbi) = \frac{p(¬vmel \wedge dbi)}{p(dbi)}$
+### $p(¬vmel|dbi) = \frac{p(¬vmel \wedge dbi)}{p(dbi)}$
 
 $p(¬vmel \wedge dbi) = p(dbi|¬vmel) \times p(¬vmel)$
 
@@ -134,7 +134,7 @@ $p(¬vmel|dbi) = \frac{0.00099}{0.951} = 0.001$
 **vmel is likelier.**
 
 ---
-####Q4
+#### Q4
 
 |           | noisy: +  | noisy: - |
 |:---:      |:---:      |:---:     |
@@ -158,7 +158,7 @@ $0.34 \ne 0.62$
 **cool: + is not independent of noisy: +.**
 
 ---
-####Q5
+#### Q5
 
 |  open: +  | noisy: +  | noisy: - |
 |:---:      |:---:      |:---:     |
